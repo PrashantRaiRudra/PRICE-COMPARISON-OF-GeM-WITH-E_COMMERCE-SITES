@@ -1,2 +1,8 @@
-# PRICE-COMPARISON-OF-GeM-WITH-E_COMMERCE-SITES
-This Project is a SIH(Smart India Hackathon Problem) in which we compare the price of product between GeM(Government -e-marketplace) and other E-commerce sites(Flipkart and Amazon).
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
