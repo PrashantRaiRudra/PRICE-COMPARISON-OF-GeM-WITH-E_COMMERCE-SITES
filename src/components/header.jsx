@@ -10,7 +10,7 @@ const Header = () => {
           className="flex title-font font-medium items-center text-white mb-4 md:mb-0"
         >
           <img
-            src="public\Images\BargainBharat-logos.jpeg"
+            src="public/Images/BargainBharat-logos.jpeg"
             width="60"
             alt="BargainBharat Logo"
           />

@@ -5,7 +5,7 @@ function AmazonSection() {
   return (
     <div className="sm:w-1/3 mb-10 px-4">
       <div className="rounded-lg h-64 overflow-hidden">
-        <img src="public\Images\Amazon.png" alt="Amazon Logo" />
+        <img src="public/Images/Amazon.png" alt="Amazon Logo" />
       </div>
       <h2 className="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">Amazon</h2>
       <p className="leading-relaxed text-base">

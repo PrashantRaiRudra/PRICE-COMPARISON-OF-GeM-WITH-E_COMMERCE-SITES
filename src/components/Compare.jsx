@@ -47,7 +47,7 @@ export const Compare = () => {
         <div>
         <div style={{display: "flex",justifyContent: "center",alignItems: "center",}}>
             <img
-              src="public\Images\GeM.png"
+              src="public/Images/GeM.png"
               alt="Flipkart Logo"
               style={{ maxWidth: "50%", maxHeight: "50%" }}
             />

@@ -81,13 +81,13 @@ function About() {
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
           <Slider {...sliderSettings}>
             <div>
-              <img src="public\Images\Flp vs Amg vs gem.png" alt="Image 1" />
+              <img src="public/Images/Flp vs Amg vs gem.png" alt="Image 1" />
             </div>
             <div>
-              <img src="public\Images\Flp vs Amg vs gem 3.png" alt="Image 2" />
+              <img src="public/Images/Flp vs Amg vs gem 3.png" alt="Image 2" />
             </div>
             <div>
-              <img src="public\Images\Flp vs Amg vs gem 2.png" alt="Image 3" />
+              <img src="public/Images/Flp vs Amg vs gem 2.png" alt="Image 3" />
             </div>
             {/* Add more images as needed */}
           </Slider>
